@@ -51,7 +51,7 @@
 
 ### **📁 증빙 자료:**
   * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-
+https://github.com/IE-PY-2026-1/ie-py-homework-seo-hyun-ji/blob/main/AI%20%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%85.pdf
 
 <br>
 1. 내용 1 : [포춘(Paw-Tune) : 반려동물 가계부 & 힐링 가이드] 매니저 컨셉 도출
