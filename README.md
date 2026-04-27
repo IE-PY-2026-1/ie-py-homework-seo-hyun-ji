@@ -112,7 +112,7 @@ https://github.com/IE-PY-2026-1/ie-py-homework-seo-hyun-ji/blob/main/AI%20%ED%98
      
 ### **📁 증빙 자료:**
   * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-    
+    https://github.com/IE-PY-2026-1/ie-py-homework-seo-hyun-ji/blob/main/AI%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%852.pdf.pdf
     
   * [2차과제_실행결과.jpg]
     https://github.com/IE-PY-2026-1/ie-py-homework-seo-hyun-ji/blob/main/2%EC%B0%A8%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC..pdf 
