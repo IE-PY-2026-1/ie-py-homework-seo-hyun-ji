@@ -15,20 +15,25 @@ print("="*45)
 print("반려동물과의 건강한 밸런스 측정을 시작합니다!\n")
 
 expenses = []
-itens = []
+items = []
 
 print(f"{pet_name}를 위해 사용한 최근 지출 내역 3개를 입력해주세요.")
 
 for i in range(3):
     item = input(f"{i+1}번째 지출 항목(예: 간식, 장난감): ")
     price = int(input(f"{item}의 가격을 입력하세요: "))
+    
+    if price < 0:
+        print("잘못된 입력입니다. 다시!")
+        continue
+    
     items.append(item)
     expenses.append(price)
 
 total_spent = sum(expenses)
 expensive_price = max(expenses)
 
-expenseive_index = expenses.index(expensive_price)
+expensive_index = expenses.index(expensive_price)
 expensive_item = items[expensive_index]
 
 count = len(items)
