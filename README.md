@@ -145,7 +145,7 @@ https://github.com/IE-PY-2026-1/ie-py-homework-seo-hyun-ji/blob/main/AI%20%ED%98
     https://github.com/IE-PY-2026-1/ie-py-homework-seo-hyun-ji/blob/main/AI%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%852.pdf.pdf
     
   * [2차과제_실행결과.jpg]
-    https://github.com/IE-PY-2026-1/ie-py-homework-seo-hyun-ji/blob/main/2%EC%B0%A8%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC..pdf 
+    https://github.com/IE-PY-2026-1/ie-py-homework-seo-hyun-ji/blob/main/2%EC%B0%A8%EA%B3%BC%EC%A0%9C_%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC..pdf
 <br>
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
